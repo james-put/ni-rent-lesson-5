@@ -69,5 +69,5 @@ if __name__ == '__main__':
 
     display_apartments(manager)
     display_tenants(manager)
-    
+
     print(f"\n{'=' * 70}\n")
